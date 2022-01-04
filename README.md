@@ -14,11 +14,14 @@
 2. Data Cleaning with Python
 - Project:
 	- Clean and Analyze Employee Exit Surveys
-	- Analyzing NYC High School Data 6 screens Challenge: Cleaning Data 6 screens • Star Wars Survey
+	- Analyzing NYC High School Data
+	- Challenge: Cleaning Data 
+	- Star Wars Survey
 
 3. Python for Data Science
 - Project:
-	- Profitable App Profiles for the App Store and Google Play Markets • Exploring Hacker News Posts
+	- Profitable App Profiles for the App Store and Google Play Markets
+	- Exploring Hacker News Posts
 
 4. Intermediate SQL for Data Analysis
 - Project:
