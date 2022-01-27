@@ -14,8 +14,8 @@
 - 2021.7 -- 2022.7: Dataquest.io
 1. Data Analysis and Visualization with Python
 - Project:
-	- Exploring eBay Car Sales Data
-	- Finding Heavy Traffic Indicators on I-94
+	- Exploring eBay Car Sales Data 
+	- Finding Heavy Traffic Indicators on I-94 (uploaded)
 	- Storytelling Data Visualization on Exchange Rates
 
 2. Data Cleaning with Python
