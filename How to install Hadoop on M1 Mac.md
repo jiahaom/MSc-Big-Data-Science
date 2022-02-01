@@ -6,7 +6,7 @@
 # Installation
 1. Install [Parallels Destop 17](https://www.parallels.com/uk/)
 
-2. Install Ubuntu ARM64 on PD 17
+2. Install Ubuntu **ARM64** on PD 17
 <img width="873" alt="Screenshot 2022-02-01 at 10 04 19" src="https://user-images.githubusercontent.com/32929553/151955793-3762ba4b-1095-4272-b140-36084d99d9ea.png">
 
 3. Follow the [How to Install Hadoop on Ubuntu 18.04 or 20.04](https://phoenixnap.com/kb/install-hadoop-ubuntu)
@@ -50,6 +50,13 @@ on the "Start Hadoop Cluster" step, feel free to use followed lines instead:
 
 9. Finally:
 <img width="1920" alt="Screenshot 2022-02-01 at 10 22 06" src="https://user-images.githubusercontent.com/32929553/151956920-e40ddd7e-2dd8-4c91-baf4-95ac307b5423.png">
+
+# Reference
+https://qmplus.qmul.ac.uk/mod/page/view.php?id=1838361
+
+https://phoenixnap.com/kb/install-hadoop-ubuntu
+
+https://askubuntu.com/questions/127056/where-is-bashrc
 
 
 
