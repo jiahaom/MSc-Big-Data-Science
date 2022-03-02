@@ -3,10 +3,16 @@
 # MSc Big Data Science
 	- 2021.9 -- 2022.9: Queen Mary University of London
 - Data Scientist Path:
+
+
 - Python, TensorFlow, Pandas, sklearn, matplotlib, Hadoop, MapReduce, Spark, SQL, R Microsoft Office Suite (including advanced Excel)
+
 • Studied Machine Learning (ML), including Pipeline, Regression, Clustering, Dimensionality Reduction and Density Estimation (Linear, Logistic, Bayes, Trees, SVM, KNN, Neural Networks).
+
 • Gained skills needed to manage, manipulate and model data in various forms in support of business intelligence (BI) while improving knowledge of ML frameworks, including PyTorch.
+
 • Analysed cutting-edge algorithmic models for Big Data, including use of Python to critically evaluate implementation problems.
+
 • Enhanced awareness of Natural Language Processing (NLP) and Deep Learning (DL), including Word Embedding, LSTM, RNN, CNN, Word2Vec, and tf-idf models.
 
 ***
