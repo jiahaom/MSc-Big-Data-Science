@@ -2,16 +2,26 @@
 ***
 # MSc Big Data Science
 	- 2021.9 -- 2022.9: Queen Mary University of London
-- Data Scientist Path:
+- Data Scientist Projects:
 
-- Python, TensorFlow, Pandas, sklearn, matplotlib, Hadoop, MapReduce, Spark, SQL, R Microsoft Office Suite (including advanced Excel)
-1. Studied Machine Learning (ML), including Pipeline, Regression, Clustering, Dimensionality Reduction and Density Estimation (Linear, Logistic, Bayes, Trees, SVM, KNN, Neural Networks).
+- NLP & NN/DL:
+	- train the simpler form of word embeddings using word2vec.
+	- train more complex word embeddings using LSTMs and use them in a text classifier.
+	- implement different approaches to text classification, including CNNs, and experiment with using word embeddings within those.
+	- develop a machine translation system with Attention Mechanism.
+	- Keywords:Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
+	- *will uploaded on 15th March*
 
-2. Gained skills needed to manage, manipulate and model data in various forms in support of business intelligence (BI) while improving knowledge of ML frameworks, including PyTorch.
+- Machine Learning_Songs Classifier:
+	- Basic: Build a Machine Learning pipeline to classify whether a recording is Harry or StarWars.
+	- Advanced: Improve the accuracy with Transition Stage and Voting Classifier.
+	- Keywords: Pipeline, Data Processing, Normalisation, PCA, SVM, KNN, GaussianNB, DTC, ExtraTrees, RandomForest
+	
+- Finding Heavy Traffic Indicators on I-94:
+	- analyze a dataset about the westbound traffic on the I-94 Interstate highway
+	- To determine indicators of heavy traffic on I-94 (weather type, time of the day, time of the week, etc.)
+	- Keywords: Exploratory Data Analysis(EDA), Data Visualization
 
-3. Analysed cutting-edge algorithmic models for Big Data, including use of Python to critically evaluate implementation problems.
-
-4. Enhanced awareness of Natural Language Processing (NLP) and Deep Learning (DL), including Word Embedding, LSTM, RNN, CNN, Word2Vec, and tf-idf models.
 
 ***
 # Data Scientist in Python
@@ -23,7 +33,7 @@
 	- Storytelling Data Visualization on Exchange Rates
 
 2. Data Cleaning with Python
-- Project:
+- Project: 
 	- Clean and Analyze Employee Exit Surveys
 	- Analyzing NYC High School Data
 	- Challenge: Cleaning Data 
