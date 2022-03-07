@@ -13,7 +13,7 @@
 	- *will uploaded on 15th March*
 
 - Machine Learning_Songs Classifier:
-	- Basic: Build a Machine Learning pipeline to classify whether my classmate is humming/whistling an HarryPotter or StarWars BGM.
+	- Basic: Build a Machine Learning pipeline to classify whether my classmate is humming/whistling a *HarryPotter or StarWars BGM*.
 	- Advanced: Improve the accuracy with Transition Stage and Voting Classifier.
 	- Keywords: Pipeline, Data Processing, Normalisation, PCA, SVM, KNN, GaussianNB, DTC, ExtraTrees, RandomForest
 	
