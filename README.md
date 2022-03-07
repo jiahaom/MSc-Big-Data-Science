@@ -9,7 +9,7 @@
 	- train more complex word embeddings using LSTMs and use them in a text classifier.
 	- implement different approaches to text classification, including CNNs, and experiment with using word embeddings within those.
 	- develop a machine translation system with Attention Mechanism.
-	- Keywords:Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
+	- Keywords: Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
 	- *will uploaded on 15th March*
 
 - Machine Learning_Songs Classifier:
