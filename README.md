@@ -9,8 +9,9 @@
 	1. train the simpler form of word embeddings using word2vec.
 	2. train more complex word embeddings using LSTMs and use them in a text classifier.
 	3. implement different approaches to text classification, including CNNs, and experiment with GLOVE.
-	4. develop a machine translation system with Attention Mechanism.
-	5. Keywords: Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
+	4. implement a aspect-based sentiment analysis
+	5. develop a machine translation system with Attention Mechanism.
+	- Keywords: Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
 
 - Machine Learning_Songs Classifier:
 	- Basic: Build a Machine Learning pipeline to classify whether my classmate is humming/whistling a *HarryPotter or StarWars BGM*.
