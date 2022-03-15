@@ -4,7 +4,8 @@
 	- 2021.9 -- 2022.9: Queen Mary University of London
 - Data Scientist Projects:
 
--NLP & Neutal Network:
+-NLP & Neutal Network: 
+
 	1. train the simpler form of word embeddings using word2vec.
 	2. train more complex word embeddings using LSTMs and use them in a text classifier.
 	3. implement different approaches to text classification, including CNNs, and experiment with using word embeddings within those.
