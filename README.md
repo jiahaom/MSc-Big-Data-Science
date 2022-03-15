@@ -8,7 +8,7 @@
 
 	1. train the simpler form of word embeddings using word2vec.
 	2. train more complex word embeddings using LSTMs and use them in a text classifier.
-	3. implement different approaches to text classification, including CNNs, and experiment with using word embeddings within those.
+	3. implement different approaches to text classification, including CNNs, and experiment with GLOVE.
 	4. develop a machine translation system with Attention Mechanism.
 	5. Keywords: Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
 
