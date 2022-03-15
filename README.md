@@ -4,13 +4,12 @@
 	- 2021.9 -- 2022.9: Queen Mary University of London
 - Data Scientist Projects:
 
-- NLP & NN/DL:
-	- train the simpler form of word embeddings using word2vec.
-	- train more complex word embeddings using LSTMs and use them in a text classifier.
-	- implement different approaches to text classification, including CNNs, and experiment with using word embeddings within those.
-	- develop a machine translation system with Attention Mechanism.
-	- Keywords: Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
-	- *will uploaded on 15th March*
+-NLP & Neutal Network:
+	1. train the simpler form of word embeddings using word2vec.
+	2. train more complex word embeddings using LSTMs and use them in a text classifier.
+	3. implement different approaches to text classification, including CNNs, and experiment with using word embeddings within those.
+	4. develop a machine translation system with Attention Mechanism.
+	5. Keywords: Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
 
 - Machine Learning_Songs Classifier:
 	- Basic: Build a Machine Learning pipeline to classify whether my classmate is humming/whistling a *HarryPotter or StarWars BGM*.
