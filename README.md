@@ -10,7 +10,7 @@
 
 - Data Scientist Projects:
 
--NLP & Neutal Network: 
+- NLP & Neutal Network: 
 
 	1. train the simpler form of word embeddings using word2vec.
 	2. train more complex word embeddings using LSTMs and use them in a text classifier.
