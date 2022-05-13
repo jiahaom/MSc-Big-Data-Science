@@ -2,6 +2,12 @@
 ***
 # MSc Big Data Science
 	- 2021.9 -- 2022.9: Queen Mary University of London
+	
+- Data Scientist Notes:	
+	- Deep Learning & NLP: https://jiahaom.notion.site/Deep-Learning-a5a5282b8a2c4f1480253f2d52475028
+	- Applied Statistics: https://jiahaom.notion.site/Risk-and-Decision-83b6d1e69d7d4cfda511b58548afbed9
+	- Big Data Processing: https://jiahaom.notion.site/Big-Data-Processing-9203b0e33f40476f8ad9f101617d0d97
+
 - Data Scientist Projects:
 
 -NLP & Neutal Network: 
