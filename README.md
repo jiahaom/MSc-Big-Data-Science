@@ -9,7 +9,7 @@
 	- Applied Statistics: https://jiahaom.notion.site/Risk-and-Decision-83b6d1e69d7d4cfda511b58548afbed9
 
 - Data Scientist Projects:
-- 
+
 - Machine Learning_Songs Classifier:
 	- Basic: Build a Machine Learning pipeline to classify whether my classmate is humming/whistling a *HarryPotter or StarWars BGM*.
 	- Advanced: Improve the accuracy with Transition Stage and Voting Classifier.
