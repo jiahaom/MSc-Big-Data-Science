@@ -4,11 +4,16 @@
 	- 2021.9 -- 2022.9: Queen Mary University of London
 	
 - Data Scientist Notes:	
-	- Applied Statistics: https://jiahaom.notion.site/Risk-and-Decision-83b6d1e69d7d4cfda511b58548afbed9
 	- Big Data Processing: https://jiahaom.notion.site/Spark-db3bdf49e3584900a20636497072619d
 	- Deep Learning & NLP: https://jiahaom.notion.site/Deep-Learning-a5a5282b8a2c4f1480253f2d52475028
+	- Applied Statistics: https://jiahaom.notion.site/Risk-and-Decision-83b6d1e69d7d4cfda511b58548afbed9
 
 - Data Scientist Projects:
+- 
+- Machine Learning_Songs Classifier:
+	- Basic: Build a Machine Learning pipeline to classify whether my classmate is humming/whistling a *HarryPotter or StarWars BGM*.
+	- Advanced: Improve the accuracy with Transition Stage and Voting Classifier.
+	- Keywords: Pipeline, Data Processing, Normalisation, PCA, SVM, KNN, GaussianNB, DTC, ExtraTrees, RandomForest
 
 - NLP & Neutal Network: 
 
@@ -19,11 +24,6 @@
 	5. develop a machine translation system with Attention Mechanism.
 	- Keywords: Word Embedding, LSTM, RNN, CNN, Word2Vec, tf-idf, DL, NN, NLP.
 
-- Machine Learning_Songs Classifier:
-	- Basic: Build a Machine Learning pipeline to classify whether my classmate is humming/whistling a *HarryPotter or StarWars BGM*.
-	- Advanced: Improve the accuracy with Transition Stage and Voting Classifier.
-	- Keywords: Pipeline, Data Processing, Normalisation, PCA, SVM, KNN, GaussianNB, DTC, ExtraTrees, RandomForest
-	
 - Finding Heavy Traffic Indicators on I-94:
 	- analyze a dataset about the westbound traffic on the I-94 Interstate highway
 	- To determine indicators of heavy traffic on I-94 (weather type, time of the day, time of the week, etc.)
