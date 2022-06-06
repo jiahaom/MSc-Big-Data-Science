@@ -5,7 +5,7 @@
 	
 - Data Scientist Notes:	
 	- Applied Statistics: https://jiahaom.notion.site/Risk-and-Decision-83b6d1e69d7d4cfda511b58548afbed9
-	- Big Data Processing: https://jiahaom.notion.site/Big-Data-Processing-9203b0e33f40476f8ad9f101617d0d97
+	- Big Data Processing: https://jiahaom.notion.site/Spark-db3bdf49e3584900a20636497072619d
 	- Deep Learning & NLP: https://jiahaom.notion.site/Deep-Learning-a5a5282b8a2c4f1480253f2d52475028
 
 - Data Scientist Projects:
