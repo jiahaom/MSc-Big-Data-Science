@@ -1,6 +1,6 @@
 ***Continuously updating.***
 # Data Analyst
-	- How Deep Learning Impacts Our Daily Work: NLP for text matching: https://medium.com/@jiahao.meng/how-deep-learning-impacts-our-daily-work-nlp-for-text-matching-a20bc4a746dd
+- How Deep Learning Impacts Our Daily Work: NLP for text matching: https://medium.com/@jiahao.meng/how-deep-learning-impacts-our-daily-work-nlp-for-text-matching-a20bc4a746dd
 
 ***
 # MSc Big Data Science
