@@ -12,7 +12,7 @@ Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine l
 
 👨🏼‍💻 Projects:
 
-- How to Build Machine Learning Pipelines in Google Colab [![](https://img.shields.io/badge/MLOps-555555?logo=jupyter)](https://github.com/jiahaom/MLOps)
+- How to Build Machine Learning Pipelines with TensorFlow Extended(TFX) [![](https://img.shields.io/badge/MLOps-555555?logo=jupyter)](https://github.com/jiahaom/MLOps)
 
 - How to Initialise Spark, Read and Transform Data [![](https://badges.aleen42.com/src/medium.svg)](https://medium.com/@jiahao.meng/pyspark-cheat-sheet-with-code-samples-65398180fcf1)
 
